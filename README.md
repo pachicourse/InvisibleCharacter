@@ -1,1 +1,4 @@
 # InvisibleCharacter
+<p>任意の画像に任意を文字を仕込んで出力するImageConverterと、ImageConverterによって仕込まれた文字を浮かび上がらせるSecretCharacterのセットです。
+まず、任意の画像と、それと同じサイズで、かつ文字色が黒(0,0,0)、背景色が白(255,255,255)の画像を用意し、ImageConverterのフォルダ内に入れます。
+そしてImageConverter.pdeを起動。sample_out.pngが吐き出されます。sample_out.pngに仕込まれた文字を見たいときはSecretCharacterフォルダにそれを入れ、SecretCharacter.pdeを起動。仕込まれた文字が見えます。結果はsample_result.pngとして吐き出されます。画像サイズの設定は手動なのでImageConverter.pdeとSercretCharacter.pde内を適宜書き換えてから実行してください。</p>
