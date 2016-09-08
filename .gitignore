@@ -1,11 +1,9 @@
 .DS_Store
+*.png
+*.jpg
 applet
 application.linux32
 application.linux64
 application.windows32
 application.windows64
-application.macosx
-sample_out.png
-sample_result.png
-watashi.jpg
-moji.png
+
